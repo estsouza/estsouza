@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi, I'm Esteban
+I'm an agronomist providing remote sensing derived solutions for agriculture.
+Currently I'm reskilling and changing careers to python software developer.
+
+# You can find me at:
+estsouza@gmail.com
 
 <!--
-**estsouza/estsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
