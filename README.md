@@ -1,5 +1,6 @@
 ### Hi, I'm Esteban
-I'm an agronomist providing remote sensing derived solutions for agriculture.\n
+I'm an agronomist providing remote sensing derived solutions for agriculture.
+
 Currently I'm reskilling and changing careers to python software developer.
 
 # You can find me at:
