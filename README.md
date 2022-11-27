@@ -1,13 +1,11 @@
 # Hi, I'm Esteban
 
-I'm an agronomist providing remote sensing derived solutions for agriculture.
-
-Currently I'm reskilling and changing careers to python software developer.
+I'm a data analyst. I started my professional journey as an agronomist providing remote sensing derived solutions for agriculture. Some years ago I discovered I loved coding and pulling information out of a bunch of data. Nowadays I have a role as a data analyst in Bayer, although I also carry out some tasks that would fit better in a data scientist role. 
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3376AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
-![Postgresql](https://img.shields.io/badge/Postresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)</br>
+![Postgresql](https://img.shields.io/badge/Postresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)</br>
 
 ### You can find me at:
