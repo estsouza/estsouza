@@ -1,6 +1,6 @@
 # Hi, I'm Esteban
 
-I'm a data analyst. I started my professional journey as an agronomist providing remote sensing derived solutions for agriculture. Some years ago I discovered I loved coding and pulling information out of a bunch of data. Nowadays I have a role as a data analyst in Bayer, although I also carry out some tasks that would fit better in a data scientist role. 
+I'm a data scientist with a background in agronomy and remote sensing, having 10+ years of experience with geospatial data within the field. I have strong foundational knowledge in remote sensing, GIS, programming, data science, and machine learning, and a demonstrated ability to rapidly adapt to new challenges and technologies. Adept at problem-solving and meeting deadlines for delivering results. Currently, I am seeking a new role as a data scientist, preferably in an international setting, to further advance my career. 
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3376AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
