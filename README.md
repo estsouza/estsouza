@@ -1,6 +1,6 @@
 # Hi, I'm Esteban
 
-I'm a data scientist with a background in agronomy and remote sensing, having 10+ years of experience with geospatial data within the field. I have strong foundational knowledge in remote sensing, GIS, programming, data science, and machine learning, and a demonstrated ability to rapidly adapt to new challenges and technologies. Adept at problem-solving and meeting deadlines for delivering results. Currently, I am seeking a new role as a data scientist, preferably in an international setting, to further advance my career. 
+I'm a data scientist with a background in agronomy and remote sensing, having 10+ years of experience with geospatial data within the field. I have strong foundational knowledge in remote sensing, GIS, programming, data science, and machine learning, and a demonstrated ability to rapidly adapt to new challenges and technologies. Adept at problem-solving and meeting deadlines for delivering results.
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3376AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
